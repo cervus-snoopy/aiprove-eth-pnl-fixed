@@ -1,0 +1,17 @@
+{
+  "bounty": "eth-pnl-fixed",
+  "capital_usd": 10000.0,
+  "position_size_eth": 1,
+  "fee_per_leg": 0.0005,
+  "slippage_per_leg": 0.0002,
+  "bars": 1440,
+  "net_pnl_usd": 28.33,
+  "gross_pnl_usd": 77.1,
+  "total_costs_usd": 48.77,
+  "trades": 34,
+  "max_drawdown_pct": 0.52,
+  "in_sample_pnl_usd_bars_0_720": -43.74,
+  "out_of_sample_pnl_usd_bars_720_1440": 70.94,
+  "buy_and_hold_1eth_pnl_usd": -68.09,
+  "final_equity_usd": 10028.33
+}
